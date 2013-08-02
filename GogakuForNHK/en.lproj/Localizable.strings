@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  GogakuForNHK
+
+  Created by Maezono Yusaku on 2013/07/30.
+  Copyright (c) 2013年 crossgate. All rights reserved.
+*/
+
+/* フィードバック */
+"AAMFeedbackTitle" = "Feedback";
+"AAMFeedbackTopicsTitle" = "Topics";
+"AAMFeedbackButtonMail" = "Mail";
+"AAMFeedbackDescriptionPlaceholder" = "Please write for details.";
+"AAMFeedbackTableHeaderTopics" = "Please Fill";
+"AAMFeedbackTableHeaderBasicInfo" = "Your Environment";
+"AAMFeedbackTopicsQuestion" = "Question";
+"AAMFeedbackTopicsRequest" = "Request";
+"AAMFeedbackTopicsBugReport" = "Bug Report";
+"AAMFeedbackTopicsMedia" = "Media";
+"AAMFeedbackTopicsBusiness" = "Business";
+"AAMFeedbackTopicsOther" = "Other";
+"AAMFeedbackMailDidFinishWithError" = "Failed to send your feedback. Please try later.";
