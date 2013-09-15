@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5A1E031417E5DE8D00B5F69E /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 5A1E031317E5DE8C00B5F69E /* README.md */; };
 		5A3CA49017A591D300DF06C2 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A3CA48F17A591D300DF06C2 /* UIKit.framework */; };
 		5A3CA49217A591D300DF06C2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A3CA49117A591D300DF06C2 /* Foundation.framework */; };
 		5A3CA49417A591D300DF06C2 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A3CA49317A591D300DF06C2 /* CoreGraphics.framework */; };
@@ -89,6 +90,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5A1E031317E5DE8C00B5F69E /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 		5A3CA48C17A591D300DF06C2 /* GogakuForNHK.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GogakuForNHK.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A3CA48F17A591D300DF06C2 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		5A3CA49117A591D300DF06C2 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -311,6 +313,7 @@
 		5A3CA48317A591D300DF06C2 = {
 			isa = PBXGroup;
 			children = (
+				5A1E031317E5DE8C00B5F69E /* README.md */,
 				5A3CA56817A75E2F00DF06C2 /* gogaku-icon.png */,
 				5A3CA56617A75E2A00DF06C2 /* gogaku-icon@2x.png */,
 				5A3CA49517A591D300DF06C2 /* GogakuForNHK */,
@@ -782,6 +785,7 @@
 				5A3CA57617A8605100DF06C2 /* note.png in Resources */,
 				5A3CA57717A8605100DF06C2 /* note@2x.png in Resources */,
 				5A3CA5CE17A8AB6D00DF06C2 /* LICENSE in Resources */,
+				5A1E031417E5DE8D00B5F69E /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
